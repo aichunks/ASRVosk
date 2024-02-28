@@ -15,3 +15,8 @@ for US base heavy english:- vosk-model-en-us-0.22/
 For downloading more models use this link:-
 
 https://alphacephei.com/vosk/models
+
+
+after creating env is facng any issue use
+
+ pip3 install vosk
