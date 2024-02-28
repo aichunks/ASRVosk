@@ -11,3 +11,7 @@ for US base light english:- vosk-model-small-en-us-0.15/
 
 for US base heavy english:- vosk-model-en-us-0.22/
 
+
+For downloading more models use this link:-
+
+https://alphacephei.com/vosk/models
